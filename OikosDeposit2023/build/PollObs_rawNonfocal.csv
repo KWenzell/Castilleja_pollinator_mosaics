@@ -1,0 +1,246 @@
+year,pop,observer,dataset,time,pollFxGroup,pollinatorDescription,totalNumberFlrsVisited,numberVisibleFlringStems,avgFlrsPerStem_focal,estimatedTotalFlrs
+2019,SBL,KW,nf,19:28,hawkmoth,,0,17,3.85,65.45
+2019,SBL,KW,nf,19:34,hawkmoth,,4,17,3.85,65.45
+2019,SBL,KW,nf,19:53,hawkmoth,,16,17,3.85,65.45
+2019,SBL,KW,nf,20:00,hawkmoth,,9,17,3.85,65.45
+2019,SCL,KW,nf,9:00,bumblebee,,2,23,3.78,86.94
+2019,SCL,KW,nf,20:33,hawkmoth,,2,23,3.78,86.94
+2019,SCL,KW,nf,20:42,hawkmoth,,2,23,3.78,86.94
+2019,SCL,KW,nf,20:46,hawkmoth,,2,23,3.78,86.94
+2019,SCL,KW,nf,21:00,hawkmoth,,1,23,3.78,86.94
+2019,SCL,KS,nf,20:31,hawkmoth,,4,14,3.78,52.92
+2019,SCL,KS,nf,20:32,hawkmoth,,2,14,3.78,52.92
+2019,SCL,KS,nf,20:45,hawkmoth,,2,14,3.78,52.92
+2019,SCL,KS,nf,20:45,hawkmoth,,1,14,3.78,52.92
+2019,SCL,KS,nf,13:23,small_bee,sweat bee,0,14,3.78,52.92
+2019,PCM,KW,nf,18:36,bumblebee,bumblebee,39,180,2.43,437.4
+2019,PCM,KW,nf,8:25,bumblebee,bumblebee,5,180,2.43,437.4
+2019,PCM,KW,nf,15:06,bumblebee,bumblebee,2,180,2.43,437.4
+2019,PCM,KW,nf,15:18,bumblebee,bumblebee,3,180,2.43,437.4
+2019,PCM,CW,nf,18:25,bumblebee,bumblebee,8,68,2.43,165.24
+2019,PCM,CW,nf,10:17,bumblebee,bumblebee,2,68,2.43,165.24
+2019,PCM,KW,nf,18:21,butterfly,Pipevine swallowtail,1,180,2.43,437.4
+2019,PCM,KW,nf,13:55,butterfly,Black swallowtail (pipevine?),2,180,2.43,437.4
+2019,PCM,KW,nf,14:38,butterfly,Black swallowtail,1,180,2.43,437.4
+2019,PCM,CW,nf,13:54,butterfly,Black swallowtail,2,68,2.43,165.24
+2019,PCM,CW,nf,14:48,butterfly,Black swallowtail,1,68,2.43,165.24
+2019,PCM,CW,nf,20:04,hawkmoth,Hyles lineata,16,68,2.43,165.24
+2019,PCM,CW,nf,20:09,hawkmoth,Hyles lineata,5,68,2.43,165.24
+2019,PCM,KW,nf,15:10,hummingbird,hummingbird,2,180,2.43,437.4
+2019,SFP,CW,nf,8:43,bumblebee,,7,12,4.35,52.2
+2019,SFP,CW,nf,8:46,bumblebee,,7,12,4.35,52.2
+2019,SFP,CW,nf,11:45,bumblebee,,5,12,4.35,52.2
+2019,SFP,CW,nf,13:28,bumblebee,,14,12,4.35,52.2
+2019,SFP,CW,nf,18:49,bumblebee,,1,12,4.35,52.2
+2019,SFP,KW,nf,12:00,bumblebee,,31,25,4.35,108.75
+2019,SFP,KW,nf,19:10,bumblebee,,31,25,4.35,108.75
+2019,SFP,CW,nf,21:48,small_moth,Mid-sized gray moth,1,12,4.35,52.2
+2019,SFP,KW,nf,8:34,small_bee,Small .7cm bee,2,25,4.35,108.75
+2019,SFP,KW,nf,9:41,small_bee,Small blk bee,2,25,4.35,108.75
+2019,CHCL,KW1,nf,9:22,bumblebee,,12,162,4.13,669.06
+2019,CHCL,KW1,nf,10:14,bumblebee,,7,162,4.13,669.06
+2019,CHCL,KW1,nf,10:16,bumblebee,,46,162,4.13,669.06
+2019,CHCL,KW1,nf,11:14,bumblebee,,21,162,4.13,669.06
+2019,CHCL,KW1,nf,17:14,bumblebee,,6,162,4.13,669.06
+2019,CHCL,KW1,nf,18:01,bumblebee,,16,162,4.13,669.06
+2019,CHCL,KW1,nf,18:08,bumblebee,,2,162,4.13,669.06
+2019,CHCL,KW2,nf,10:02,bumblebee,,2,220,4.13,908.6
+2019,CHCL,KW2,nf,10:42,bumblebee,,4,220,4.13,908.6
+2019,CHCL,KW2,nf,11:37,bumblebee,,23,220,4.13,908.6
+2019,CHCL,KW2,nf,11:43,bumblebee,,15,220,4.13,908.6
+2019,CHCL,KW2,nf,13:43,bumblebee,,6,220,4.13,908.6
+2019,CHCL,KW2,nf,18:34,bumblebee,,3,220,4.13,908.6
+2019,CHCL,KW1,nf,9:30,butterfly,Swallowtail (pipevine),22,162,4.13,669.06
+2019,CHCL,KW1,nf,11:20,butterfly,Swallowtail,1,162,4.13,669.06
+2019,CHCL,KW1,nf,13:18,butterfly,Swallowtail,18,162,4.13,669.06
+2019,CHCL,KW2,nf,9:52,butterfly,Swallowtail (pipevine),3,220,4.13,908.6
+2019,CHCL,KW2,nf,10:03,butterfly,Swallowtail,3,220,4.13,908.6
+2019,CHCL,KW2,nf,11:40,butterfly,Swallowtail,4,220,4.13,908.6
+2019,CHCL,KW1,nf,20:06,hawkmoth,Hyles lineata,11,162,4.13,669.06
+2019,CHCL,KW2,nf,20:17,hawkmoth,,2,220,4.13,908.6
+2019,CHCL,KW1,nf,10:29,hummingbird,,27,162,4.13,669.06
+2019,CHCL,KW1,nf,11:21,hummingbird,,0,162,4.13,669.06
+2019,CHCL,KW1,nf,14:14,hummingbird,,7,162,4.13,669.06
+2019,CHCL,KW1,nf,20:20,small_moth,"Gray, 1.5cm",1,162,4.13,669.06
+2019,SIC,JF,nf,11:00,butterfly,Swallowtail,3,15,4.4,66
+2019,SIC,JF,nf,19:50,hawkmoth,Hyles lineata,4,15,4.4,66
+2019,SIC,JF,nf,20:35,hawkmoth,Hyles lineata,1,15,4.4,66
+2019,SIC,KW,nf,17:35,hawkmoth,,3,80,4.4,352
+2019,SIC,KW,nf,17:56,hawkmoth,,7,80,4.4,352
+2019,SIC,KW,nf,18:12,hawkmoth,,24,80,4.4,352
+2019,SIC,KW,nf,18:16,hawkmoth,,2,80,4.4,352
+2019,SIC,KW,nf,20:10,hawkmoth,,8,80,4.4,352
+2019,CLA,KW,nf,NA,no_visitation,,0,46,5.6,257.6
+2019,CLA,CW,nf,NA,no_visitation,,0,16,5.6,89.6
+2019,LMN,JF,nf,18:18,hummingbird,,5,33,4.02,132.66
+2019,LMN,JF,nf,19:35,hummingbird,,33,33,4.02,132.66
+2019,LMN,JF,nf,13:18,hummingbird,,4,33,4.02,132.66
+2019,LMN,KW,nf,14:57,hummingbird,,11,82,4.02,329.64
+2019,LMN,KW,nf,18:18,hummingbird,,14,82,4.02,329.64
+2019,LMN,KW,nf,19:48,hummingbird,,47,82,4.02,329.64
+2019,LMN,KW,nf,19:52,hummingbird,,32,82,4.02,329.64
+2019,LMN,KW,nf,19:53,hummingbird,,2,82,4.02,329.64
+2019,LMN,KW,nf,19:58,hummingbird,,13,82,4.02,329.64
+2019,LMN,KW,nf,9:31,hummingbird,,11,82,4.02,329.64
+2019,LMN,KW,nf,9:47,hummingbird,,5,82,4.02,329.64
+2019,LMN,KW,nf,10:49,hummingbird,,4,82,4.02,329.64
+2019,LMN,KW,nf,10:51,hummingbird,,2,82,4.02,329.64
+2019,LMN,KW,nf,11:34,hummingbird,,2,82,4.02,329.64
+2019,LMN,KW,nf,11:45,hummingbird,,18,82,4.02,329.64
+2019,LMN,KW,nf,13:20,hummingbird,,6,82,4.02,329.64
+2019,SMP,KW,nf,10:44,bumblebee,,13,461,3.4,1567.4
+2019,SMP,KW,nf,10:48,bumblebee,,8,461,3.4,1567.4
+2019,SMP,KW,nf,10:49,bumblebee,,3,461,3.4,1567.4
+2019,SMP,KW,nf,11:39,bumblebee,,70,461,3.4,1567.4
+2019,SMP,KW,nf,12:39,bumblebee,,9,461,3.4,1567.4
+2019,SMP,KS,nf,NA,bumblebee,,2,273,3.4,928.2
+2019,CMSC,KW,nf,20:24,hawkmoth,Hyles lineata,1,42,4.13,173.46
+2019,CMSC,KW,nf,20:32,hawkmoth,Hyles lineata,2,42,4.13,173.46
+2019,CMSC,KW,nf,20:35,hawkmoth,Hyles lineata,7,42,4.13,173.46
+2019,CMSC,AM,nf,20:27,hawkmoth,,1,42,4.13,173.46
+2019,CMSC,AM,nf,NA,hawkmoth,,1,42,4.13,173.46
+2019,CMSC,AM,nf,NA,hawkmoth,,1,42,4.13,173.46
+2019,CMSC,KW,nf,12:45,small_bee,Small shiny green bee,3,10,4.13,41.3
+2019,PMT,KW,nf,12:40,butterfly,Pipevine swallowtail,6,390,4.5,1755
+2019,PMT,KW.2,nf,11:23,butterfly,Swallowtail (tiger?),1,74,4.5,333
+2019,PMT,KW,nf,14:55,hummingbird,,3,390,4.5,1755
+2019,PMT,KW,nf,18:50,hummingbird,,31,390,4.5,1755
+2019,PMT,KW,nf,8:02,hummingbird,,16,390,4.5,1755
+2019,PMT,KW,nf,8:40,hummingbird,,2,390,4.5,1755
+2019,PMT,KW,nf,11:07,hummingbird,,29,390,4.5,1755
+2019,PMT,KW,nf,13:19,hummingbird,,27,390,4.5,1755
+2019,PMT,JF,nf,18:08,hummingbird,,5,74,4.5,333
+2019,PMT,JF,nf,7:55,hummingbird,,2,74,4.5,333
+2019,SNRM,KW1,nf,9:42,bumblebee,,6,24,5.1,122.4
+2019,SNRM,KW1,nf,9:57,bumblebee,,4,24,5.1,122.4
+2019,SNRM,KW1,nf,11:26,bumblebee,,4,24,5.1,122.4
+2019,SNRM,KW1,nf,17:06,small_bee,Green bee .5cm,4,24,5.1,122.4
+2019,SNRM,KW1,nf,9:46,small_bee,Sm-med blk bee,1,24,5.1,122.4
+2019,SNRM,KW1,nf,NA,small_bee,Sm bee 1 cm,2,24,5.1,122.4
+2019,CQL,CW,nf,13:23,bumblebee,bumblebee,1,69,3.6,248.4
+2019,CQL,KW,nf,13:33,bumblebee,bumblebee,7,330,3.6,1188
+2019,CQL,KW,nf,13:36,bumblebee,bumblebee,55,330,3.6,1188
+2019,CQL,KW,nf,16:54,bumblebee,bumblebee,4,330,3.6,1188
+2019,CQL,CW,nf,18:16,hummingbird,hummingbird,4,69,3.6,248.4
+2019,CQL,KW,nf,8:46,hummingbird,hummingbird,25,330,3.6,1188
+2019,CQL,CW,nf,13:17,small_bee,sweat bee,6,69,3.6,248.4
+2019,CQL,KW,nf,11:45,small_bee,sweat bee,1,330,3.6,1188
+2019,LRR,JF,nf,13:48,butterfly,Black swallowtail,2,86,3.42,294.12
+2019,LRR,JF,nf,11:15,butterfly,Swallowtail (Blue wing),78,140,3.42,478.8
+2019,LRR,KW,nf,12:31,butterfly,Giant swallowtail,2,130,3.42,444.6
+2019,LRR,KW,nf,12:25,butterfly,Pipevine swallowtail,3,130,3.42,444.6
+2019,LRR,KW,nf,13:42,butterfly,Pipevine swallowtail,11,130,3.42,444.6
+2019,LRR,KW,nf,14:10,butterfly,Pipevine swallowtail,3,130,3.42,444.6
+2019,LRR,KW,nf,17:52,butterfly,Pipevine swallowtail,4,130,3.42,444.6
+2019,LRR,KW,nf,18:08,butterfly,Pipevine swallowtail,7,130,3.42,444.6
+2019,LRR,JF,nf,13:40,hummingbird,hummingbird,6,86,3.42,294.12
+2019,LRR,JF,nf,15:50,hummingbird,hummingbird,2,86,3.42,294.12
+2019,LRR,JF,nf,17:18,hummingbird,hummingbird,9,86,3.42,294.12
+2019,LRR,JF,nf,17:20,hummingbird,hummingbird,10,86,3.42,294.12
+2019,LRR,JF,nf,18:00,hummingbird,hummingbird,10,86,3.42,294.12
+2019,LRR,JF,nf,18:01,hummingbird,hummingbird,2,86,3.42,294.12
+2019,LRR,JF,nf,18:09,hummingbird,hummingbird,8,86,3.42,294.12
+2019,LRR,JF,nf,18:18,hummingbird,hummingbird,4,86,3.42,294.12
+2019,LRR,JF,nf,18:19,hummingbird,hummingbird,8,86,3.42,294.12
+2019,LRR,JF,nf,18:20,hummingbird,hummingbird,4,86,3.42,294.12
+2019,LRR,JF,nf,19:32,hummingbird,hummingbird,4,86,3.42,294.12
+2019,LRR,JF,nf,19:37,hummingbird,hummingbird,12,86,3.42,294.12
+2019,LRR,JF,nf,8:47,hummingbird,hummingbird,10,86,3.42,294.12
+2019,LRR,JF,nf,11:09,hummingbird,hummingbird,2,86,3.42,294.12
+2019,LRR,KW,nf,19:35,hummingbird,hummingbird,2,130,3.42,444.6
+2019,LRR,KW,nf,19:38,hummingbird,hummingbird,13,130,3.42,444.6
+2019,LRR,KW,nf,19:39,hummingbird,hummingbird,15,130,3.42,444.6
+2019,LRR,KW,nf,9:36,hummingbird,hummingbird,2,130,3.42,444.6
+2019,PTH,KW1,nf,10:21,bumblebee,,1,952,5.4,5140.8
+2019,PTH,KW1,nf,13:00,bumblebee,,2,952,5.4,5140.8
+2019,PTH,KW1,nf,19:35,bumblebee,,1,458,5.4,2473.2
+2019,PTH,KW1,nf,9:37,butterfly,"Swallowtail, black with yellow spots",1,952,5.4,5140.8
+2019,PTH,KW1,nf,9:41,butterfly,"Swallowtail, black with yellow spots",2,952,5.4,5140.8
+2019,PTH,KW1,nf,9:48,butterfly,"Swallowtail, black with yellow spots",14,952,5.4,5140.8
+2019,PTH,KW1,nf,9:48,butterfly,"Swallowtail, black with yellow spots",6,952,5.4,5140.8
+2019,PTH,KW1,nf,9:50,butterfly,Pipevine swallowtail,4,952,5.4,5140.8
+2019,PTH,KW1,nf,10:27,butterfly,Swallowtail,12,952,5.4,5140.8
+2019,PTH,KW1,nf,10:42,butterfly,Swallowtail,8,952,5.4,5140.8
+2019,PTH,KW1,nf,10:42,butterfly,Swallowtail,1,952,5.4,5140.8
+2019,PTH,KW1,nf,12:15,butterfly,Sulphur butterfly,1,952,5.4,5140.8
+2019,PTH,KW1,nf,13:13,butterfly,Pipevine swallowtail,19,952,5.4,5140.8
+2019,PTH,KW1,nf,13:15,butterfly,Pipevine swallowtail,12,952,5.4,5140.8
+2019,PTH,KW1,nf,13:18,butterfly,Pipevine swallowtail,13,952,5.4,5140.8
+2019,PTH,KW1,nf,17:00,butterfly,Pipevine swallowtail,1,952,5.4,5140.8
+2019,PTH,KW1,nf,16:57,carpenter_bee,,0,952,5.4,5140.8
+2019,PTH,KW2,nf,17:39,carpenter_bee,,0,952,5.4,5140.8
+2019,PTH,KW1,nf,20:00,hawkmoth,,2,952,5.4,5140.8
+2019,PTH,KW1,nf,20:07,hawkmoth,,3,952,5.4,5140.8
+2019,PTH,KW1,nf,20:17,hawkmoth,,1,952,5.4,5140.8
+2019,PTH,KW1,nf,19:46,hawkmoth,,7,458,5.4,2473.2
+2019,PTH,KW1,nf,19:58,hawkmoth,,10,458,5.4,2473.2
+2019,PTH,KW1,nf,20:04,hawkmoth,,11,458,5.4,2473.2
+2019,PTH,KW1,nf,20:04,hawkmoth,,1,458,5.4,2473.2
+2019,PTH,KW1,nf,20:13,hawkmoth,,2,458,5.4,2473.2
+2019,PTH,KW1,nf,20:24,hawkmoth,,3,458,5.4,2473.2
+2019,PTH,KW1,nf,20:29,hawkmoth,,2,458,5.4,2473.2
+2019,PTH,KW1,nf,8:10,hawkmoth,,6,458,5.4,2473.2
+2019,PTH,KW1,nf,12:55,hummingbird,,24,458,5.4,2473.2
+2019,PTH,KW1,nf,12:00,small_bee,Shiny green bee,8,458,5.4,2473.2
+2019,PTH,KW1,nf,19:48,small_moth,"Gray 1"" moth",1,952,5.4,5140.8
+2019,PTH,KW1,nf,19:59,small_moth,"Gray 1"" moth",2,952,5.4,5140.8
+2019,PTH,KW1,nf,20:02,small_moth,"Gray 1"" moth",4,952,5.4,5140.8
+2019,PTH,KW1,nf,20:08,small_moth,"Gray 1"" moth",2,952,5.4,5140.8
+2019,PTH,KW1,nf,19:48,small_moth,"Gray 1"" moth",4,458,5.4,2473.2
+2019,PTH,KW1,nf,19:54,small_moth,"Gray 1"" moth",2,458,5.4,2473.2
+2019,PTH,KW1,nf,20:07,small_moth,"Gray 1"" moth",2,458,5.4,2473.2
+2019,PTH,KW1,nf,20:09,small_moth,"Gray 1"" moth",2,458,5.4,2473.2
+2019,PTMS,KW,nf,14:21,butterfly,Black swallowtail,1,374,4.53,1694.22
+2019,PTMS,KW,nf,17:54,butterfly,Black swallowtail,2,374,4.53,1694.22
+2019,PTMS,AM,nf,10:44,butterfly,Lg black butterfly [swallowtail],1,420,4.53,1694.22
+2019,PTMS,KW,nf,10:30,carpenter_bee,carpenter_bee,0,374,4.53,1694.22
+2019,PTMS,KW,nf,10:35,carpenter_bee,carpenter_bee,0,374,4.53,1694.22
+2019,PTMS,KW,nf,10:45,carpenter_bee,carpenter_bee,0,374,4.53,1694.22
+2019,PTMS,KW,nf,11:20,carpenter_bee,carpenter_bee,0,374,4.53,1694.22
+2019,PTMS,KW,nf,12:07,carpenter_bee,carpenter_bee,0,374,4.53,1694.22
+2019,PTMS,KW,nf,17:28,carpenter_bee,carpenter_bee,0,374,4.53,1694.22
+2019,PTMS,KW,nf,18:14,carpenter_bee,carpenter_bee,0,374,4.53,1694.22
+2019,PTMS,AM,nf,10:30,carpenter_bee,carpenter_bee,0,420,4.53,1902.6
+2019,PTMS,AM,nf,10:34,carpenter_bee,carpenter_bee,0,420,4.53,1902.6
+2019,PTMS,AM,nf,10:46,carpenter_bee,carpenter_bee,0,420,4.53,1902.6
+2019,PTMS,AM,nf,10:47,carpenter_bee,carpenter_bee,0,420,4.53,1902.6
+2019,PTMS,AM,nf,10:47,carpenter_bee,carpenter_bee,0,420,4.53,1902.6
+2019,PTMS,AM,nf,10:47,carpenter_bee,carpenter_bee,0,420,4.53,1902.6
+2019,PTMS,AM,nf,11:18,carpenter_bee,carpenter_bee,0,420,4.53,1902.6
+2019,PTMS,AM,nf,11:18,carpenter_bee,carpenter_bee,0,420,4.53,1902.6
+2019,PTMS,AM,nf,11:25,carpenter_bee,carpenter_bee,0,420,4.53,1902.6
+2019,PTMS,AM,nf,12:18,carpenter_bee,carpenter_bee,0,420,4.53,1902.6
+2019,PTMS,AM,nf,12:21,carpenter_bee,carpenter_bee,0,420,4.53,1902.6
+2019,PTMS,AM,nf,14:18,carpenter_bee,carpenter_bee,0,420,4.53,1902.6
+2019,PTMS,AM,nf,14:14,carpenter_bee,carpenter_bee,0,420,4.53,1902.6
+2019,PTMS,AM,nf,14:20,carpenter_bee,carpenter_bee,0,420,4.53,1902.6
+2019,PTMS,KW,nf,10:29,small_bee,Small green bee,1,374,4.53,1694.22
+2019,PTMS,KW,nf,11:30,small_bee,,2,374,4.53,1694.22
+2019,PTMS,KW,nf,10:35,small_butterfly,"Yellow med 1"" butterfly",2,374,4.53,1694.22
+2019,PTMS,AM,nf,20:47,small_moth,,1,420,4.53,1902.6
+2019,LVH,KW,nf,12:05,butterfly,Swallowtail,4,33,4.375,144.375
+2019,LVH,KW,nf,14:10,butterfly,Sulphur butterfly,1,33,4.375,144.375
+2019,LVH,JF,nf,19:50,hawkmoth,Hyles lineata,2,70,4.375,306.25
+2019,LVH,JF,nf,9:05,hawkmoth,,1,70,4.375,306.25
+2019,LVH,KW,nf,12:35,hummingbird,,3,33,4.375,144.375
+2019,LVH,KW,nf,14:01,hummingbird,,2,33,4.375,144.375
+2019,LVH,KW,nf,9:10,hummingbird,,2,33,4.375,144.375
+2019,LVH,KW,nf,9:12,hummingbird,,2,33,4.375,144.375
+2019,LVH,JF,nf,11:20,hummingbird,,2,70,4.375,306.25
+2019,LVH,JF,nf,11:45,hummingbird,,6,70,4.375,306.25
+2019,LVH,JF,nf,12:20,hummingbird,,1,70,4.375,306.25
+2019,LVH,JF,nf,12:50,hummingbird,,6,70,4.375,306.25
+2019,LVH,JF,nf,14:10,hummingbird,,1,70,4.375,306.25
+2019,LVH,JF,nf,19:20,hummingbird,,2,70,4.375,306.25
+2019,LVH,JF,nf,7:40,hummingbird,,1,70,4.375,306.25
+2019,LVH,JF,nf,7:45,hummingbird,,1,70,4.375,306.25
+2019,LVH,JF,nf,7:49,hummingbird,,1,70,4.375,306.25
+2019,LVH,JF,nf,7:57,hummingbird,,3,70,4.375,306.25
+2019,LVH,JF,nf,7:58,hummingbird,,1,70,4.375,306.25
+2019,LVH,JF,nf,8:00,hummingbird,,4,70,4.375,306.25
+2019,LVH,JF,nf,8:25,hummingbird,,1,70,4.375,306.25
+2019,LVH,JF,nf,9:12,hummingbird,,3,70,4.375,306.25
+2019,LVH,JF,nf,9:15,hummingbird,,2,70,4.375,306.25
+2019,LVH,KW,nf,12:25,small_bee,sweat bee,1,33,4.375,144.375
+2019,LVH,JF,nf,19:50,small_moth,,2,70,4.375,306.25
+2019,SYH,KW,nf,NA,no_visitation,,0,172,3.4,584.8
